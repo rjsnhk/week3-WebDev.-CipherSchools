@@ -1,0 +1,19 @@
+body{
+    color: red;
+}
+
+.container1{
+    color: blue;
+}
+.container2{
+    color: green;
+}
+h1{
+    color: purple;
+}
+
+/* a tag wala body ke jesa red nhi hoga yha default color hoga*/
+a{
+    color: black;
+    text-decoration: none;
+}
