@@ -1,0 +1,13 @@
+p{
+    font-size: 20px;
+    line-height: 45px;
+    word-spacing: 50px;
+    letter-spacing: 3.5px;
+}
+h1{
+    font-size: 25px;
+    text-decoration: underline wavy 5px blue;
+    word-spacing: 5px;
+    /* underline,overline,line-through*/
+    /* solid,dotted,wavy */
+}
