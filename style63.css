@@ -1,0 +1,31 @@
+/* link,visited,hover,active */
+
+a:link{
+    color: aqua;
+}
+
+
+a:visited{
+    color: rgb(157, 111, 201);
+}
+
+
+/* hover=uske uper arrow lene pe */
+a:hover{
+    color: rgb(255, 40, 40);
+}
+
+
+a:active{
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+p:hover{
+    color:rgb(0, 136, 255)
+}
+p:active{
+    background: blanchedalmond;
+}
