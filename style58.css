@@ -1,0 +1,13 @@
+/* auto margin hota he browser se so first use hatana he */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    margin: 10px;
+}
+p{
+    margin: 20px;
+    padding: 10px;
+}
