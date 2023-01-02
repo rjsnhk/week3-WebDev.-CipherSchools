@@ -1,0 +1,14 @@
+/* p:nth-child(2n){
+    color: rgb(95, 255, 95);
+} */
+
+p:nth-of-type(2n){
+    background: lightcoral;
+}
+
+ul li:nth-of-type(2n){
+    color: lightgreen;
+}
+ul li:nth-of-type(2n+1){
+    background: rgb(103, 181, 233);
+}
