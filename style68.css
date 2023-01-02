@@ -1,0 +1,24 @@
+/* body :not(.hello){
+    color: blue;
+    background: #dddd;
+} */
+/* div:empty{
+    background-color: aqua;
+    border:2px solid green;
+    height: 100px;
+    width: 200px;
+
+} */
+/* :root{
+    background-color: bisque;
+    color: blue;
+} */
+/* html{
+    background-color: rgb(255, 255, 5);
+    color: rgb(0, 0, 0);
+} */
+
+body{
+    background-color: black;
+    color: aquamarine;
+}
