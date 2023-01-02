@@ -1,0 +1,7 @@
+/* p:last-child{
+    color: pink;
+} */
+
+p:last-of-type{
+    background: lightblue;
+}
