@@ -1,0 +1,15 @@
+p::first-letter{
+    font-size: 40px;
+}
+p::first-line{
+    font-size: 30px;
+}
+
+p::selection{
+    background-color: aqua;
+    color: brown;
+}
+h1::selection{
+    background-color: rgb(4, 5, 5);
+    color: rgb(182, 250, 246);
+}
