@@ -1,0 +1,10 @@
+/* p:first-child{
+    color: blue;
+} */
+/* it means agar p uska parent ka first child hoga to color red*/
+
+
+p:first-of-type{
+    color: red;
+}
+/* it means parent ka pehla p red hoga */
