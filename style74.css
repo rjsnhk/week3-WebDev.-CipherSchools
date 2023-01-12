@@ -1,0 +1,22 @@
+/* p{
+    font-size: 200%;
+}*/
+/* 16=100% --normal font so*/
+
+div{
+    font-size: 10px;
+    border: 2px solid red
+    ;
+    /* width: 50%; */
+}
+p{
+    font-size: 200%;
+    border: 1px solid blue;
+    /* width: 50%; */
+    background-color: aquamarine;
+    /* margin: 2px auto; */
+    text-align: center;
+    padding: 5px 15px;
+}
+/* yha pe 10=100% */
+/* apne parents ke hisab se % hoga */
